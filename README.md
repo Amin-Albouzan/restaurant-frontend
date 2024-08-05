@@ -10,13 +10,13 @@ This project is the frontend for a restaurant website. It showcases the restaura
 - Bootstrap: Frontend framework used for building responsive and modern web pages
 
 ## Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/Home.png)
 
 ## About Us Page
 ![About Us Page](screenshots/About.png)
 
 ## Menu Page
-![Menu Page](screenshots/menu.png)
+![Menu Page](screenshots/Menu.png)
 
 ## Team Page
 ![Team Page](screenshots/Team.png)
