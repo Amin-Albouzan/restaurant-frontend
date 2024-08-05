@@ -1,0 +1,279 @@
+
+
+
+
+
+body{
+height: auto;
+
+}
+
+
+ .navbar {
+background-color: rgb(39, 3, 3);
+ }
+ 
+ #sacma{
+    text-decoration: none;
+ }
+ .btn.dropdown-toggle i{
+    background-color: rgb(68, 10, 10);
+ }
+
+
+#ooo a{
+    color: white;
+}
+
+#ooo a:hover,#ooo a:focus{
+    color: red;
+}
+
+
+#Best-Food{
+width: 250px;
+height: 50px;
+background-image: linear-gradient(to left, rgba(255,0,0,0),rgb(175, 19, 19));
+display: flex;
+align-items: center;
+border-radius: 7px;
+font-family: 'DM Serif Display', serif;
+}
+#Best-Food h4{
+    margin-left: 5px;
+}
+
+#Fatayer{
+    font-family: 'DM Serif Display', serif;
+font-size: 65px;
+font-weight: 600;
+}
+#arts{
+    font-family: 'DM Serif Display', serif;
+    font-weight: 400;
+    letter-spacing: 5PX;
+}
+
+#git{
+background-color: rgb(175, 19, 19);
+border: none;
+color: white;
+width: 170px;
+height: 50px;
+font-family: 'DM Serif Display', serif;
+letter-spacing: 3px;
+font-size: 22px;
+font-weight: 500;
+border-radius: 20px;
+}
+
+#git:hover{
+    background-color: rgb(95, 9, 9);
+    letter-spacing: 4px;
+   
+}
+
+#wwe{
+    width: 200px;
+color: white;
+background-color:rgb(222, 59, 0);
+border: none;
+height: 40px;
+margin-right:5px ;
+
+}
+#wwe:hover,#popo:hover{
+    background-color:rgb(154, 42, 1);
+letter-spacing: 1px;
+}
+#popo{
+width: 170px;
+height: 40px;
+border-radius: 18px;
+font-size: x-large;
+background-color:rgb(222, 59, 0);
+border: none;
+color: white;
+}
+
+
+/* أولاً، قم بتعيين لون النص */
+
+/* أولاً، قم بتعيين لون النص */
+.text-on-fire {
+    color: transparent;
+    background-image: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #ff7f00, #ff0000); /* اختر ألوان النار حسب الرغبة */
+    -webkit-background-clip: text; /* تأكد من أنه يعمل على Safari */
+    background-clip: text;
+  }
+  
+
+
+  @keyframes burn {
+    0% {
+      color: #ff0000; /* اللون الأحمر */
+      text-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000, 0 0 30px #ff0000, 0 0 40px #ff7f00, 0 0 70px #ff7f00, 0 0 80px #ff7f00, 0 0 100px #ff7f00, 0 0 150px #ff7f00; /* ظل النص */
+    }
+    100% {
+      color: #ff7f00; /* اللون الأصفر */
+      text-shadow: 0 0 10px #ff7f00, 0 0 20px #ff7f00, 0 0 30px #ff7f00, 0 0 40px #ff7f00, 0 0 70px #ff7f00, 0 0 80px #ff7f00, 0 0 100px #ff7f00, 0 0 150px #ff7f00; /* تغيير ظل النص */
+    }
+  }
+  
+  #navbar {
+    animation: burn 1s infinite alternate; /* تطبيق التأثير على الكلمة */
+  }
+  
+#menubutton{
+
+    background-color:rgb(222, 59, 0);
+}
+
+#menubutton p{
+
+    font-size:15px;
+    margin-top: 10px;
+ 
+}
+
+
+
+
+#menubutton:hover{
+    background-color:rgb(174, 48, 2);
+}
+#menubutton:focus{
+    background-color:rgb(174, 48, 2);
+}
+
+  
+  #cat1{
+color: gold;
+
+  }
+
+
+#tyt{
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+  
+
+  
+#mttn:hover
+{
+cursor: pointer;
+background-color: rgba(255, 255, 255, 0.12);
+}
+
+#popomo1,#popomo2,#hyh1,#hyh2{
+color: white;
+  background-color:rgb(222, 59, 0);
+border: 0px;
+width: 25px;
+}
+#popomo2:hover,#popomo1:hover,#hyh1:hover,#hyh2:hover{
+  background-color:rgb(174, 48, 2);
+}
+
+
+#seba
+{
+  display: none;
+}
+
+
+#popo10{
+
+  width: 150px;
+  height: 38px;
+  border-radius: 20px;
+  background-color:rgb(222, 59, 0) ;
+   border: none;
+   color: white;
+   font-size: large;
+}
+#popo10:hover{
+  background-color:rgb(171, 47, 2) ;
+letter-spacing: 1px;
+
+}
+#sums1
+{
+
+background-color: rgb(249, 67, 1);
+  border-radius: 50%;
+   padding: 10px;
+}
+#sums2
+{
+  font-size: small;
+}
+
+
+#audi
+{
+  
+color: white;
+  background-color: orange;
+   border-radius: 50%;
+   padding: 7px;
+}
+#audi:hover
+{
+background-color: rgb(199, 130, 1);
+
+}
+
+#audi1
+{
+width: auto;
+height: 0px;
+margin-left: 4px;
+
+
+}
+
+
+
+.ree:hover{
+  text-decoration: none;
+  color: orange;
+}
+
+
+.ree{
+  width: 150px;
+  height: auto;
+ 
+  display: block;
+  margin-top: 20px;
+  color: white;
+  margin-left: 20px;
+text-decoration: none;
+}
+#ioi:focus
+{
+  outline: none;
+}
+#tert{
+
+  width: 80px; 
+  height:35px; 
+  margin-top: 20px;
+  text-align: center;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-color: orange;color: white;
+  border: none;
+
+
+}
+#tert:hover
+{
+  background-color:rgb(199, 130, 3) ;
+}
